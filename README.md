@@ -3,7 +3,7 @@
 Created this project to do HandsOn Practice on keyevent
 
 
-* A simple web application we can use just to do some fun built with HTML, CSS, and JavaScript.
+* A simple web application we can use just to do some fun with friends built with HTML, CSS, and JavaScript.
 
 ## Features
 
